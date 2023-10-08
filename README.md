@@ -1,7 +1,7 @@
-  ### Hi there 👋
+### Hi there 👋
 
 <div align="center">
-  <img src="web.png" alt="Web Programmer" width="200"/>
+  <img src="web.jpg" alt="Web Programmer" width="200"/>
 </div>
 
 # 🚀 Aspiring programmer
