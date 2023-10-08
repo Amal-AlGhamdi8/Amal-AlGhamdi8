@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div align="center">
   <img src="web.jpg" alt="Passionate Programmer"/>
