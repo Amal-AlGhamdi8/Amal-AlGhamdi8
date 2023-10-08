@@ -3,7 +3,7 @@
 <div align="center">
   <img src="web.jpg" alt="Passionate Programmer" width="400"/>
 </div>
-
+ 
 # 🚀 Aspiring programmer
 
 Hello there! 👋 I'm Amal Al-Ghamdi, a programmer with a deep passion for coding and an unyielding ambition to create meaningful projects. Welcome to my GitHub repository, where I document my coding journey and share my projects with the world.
