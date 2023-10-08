@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="web.jpg" alt="Passionate Programmer" width="400"/>
+  <img src="web.jpg" alt="Passionate Programmer"/>
 </div>
  
 # 🚀 Aspiring programmer
