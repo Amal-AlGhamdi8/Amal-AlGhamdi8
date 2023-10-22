@@ -71,6 +71,7 @@ I'm always excited to connect with fellow programmers and collaborators. Feel fr
 
 - 📧 Email: [algamdi_8@hotmail.com](mailto:algamdi_8@hotmail.com)
 - 💼 LinkedIn: [Amal AlGhamdi](https://linkedin.com/in/amal-al-ghamdi)
+- 🌐 Website: [Amal AlGhamdi](https://amalalghamdi.netlify.app/)
 
 Let's code, learn, and grow together! 🌱
 
